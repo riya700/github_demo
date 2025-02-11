@@ -1,1 +1,1 @@
-# github_demo
+This is a Git & GitHub demo class
